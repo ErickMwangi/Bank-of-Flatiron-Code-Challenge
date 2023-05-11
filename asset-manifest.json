@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bank-of-Flatiron-Code-Challenge/static/css/main.67324674.css",
+    "main.js": "/Bank-of-Flatiron-Code-Challenge/static/js/main.87746d3a.js",
+    "index.html": "/Bank-of-Flatiron-Code-Challenge/index.html",
+    "main.67324674.css.map": "/Bank-of-Flatiron-Code-Challenge/static/css/main.67324674.css.map",
+    "main.87746d3a.js.map": "/Bank-of-Flatiron-Code-Challenge/static/js/main.87746d3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67324674.css",
+    "static/js/main.87746d3a.js"
+  ]
+}
